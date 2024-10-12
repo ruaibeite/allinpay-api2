@@ -22,7 +22,7 @@ error_reporting(E_ALL);
 	  $params["body"] = 'TEST1';
   	$params["remark"] = 'ceshi';
 	  $params["validtime"] = 12;
-	  $params["acct"] = 'oM4tN4x6Cdp51AYTZCYzPN2E8gLU';
+	  $params["acct"] = '';
 	  $params["notify_url"] = '/notify.php';
 	  $params["limit_pay"] ='';
 	  $params["sub_appid"] = '';
